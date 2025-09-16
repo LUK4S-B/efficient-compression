@@ -30,7 +30,7 @@ Base.@kwdef mutable struct TrainArgs{T<:Union{Float32,Float64}} <: AbstractTrain
     lr::T = 1f-3
     min_epochs::Int = 10 # start pruning and convergence checks after this many epochs
     max_epochs::Int = 20000
-    α::T = 1f1
+    α::T = 1f0
     β::T = 0f0
     ρ::T = 0f0
     L1_alpha::T = 0f0
