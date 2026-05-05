@@ -1,3 +1,11 @@
+# Repository moved
+
+This repo is out of date. Please view the new version at:
+
+https://github.com/L0-and-behold/efficient-compression
+
+This repo is only kept because the first version of the corresponding article (see below) links to it.
+
 # Efficient compression of neural networks and datasets
 
 Regularization methods that substantially decrease the number of parameters of neural networks, while maintaining high test accuracy.
