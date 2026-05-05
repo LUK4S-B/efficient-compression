@@ -4,7 +4,7 @@ This repo is out of date. Please view the new version at:
 
 https://github.com/L0-and-behold/efficient-compression
 
-This repo is only kept because the first version of the corresponding article (cited below) links to it.
+This repo is only kept because the first version of the corresponding arxiv article (cited below) links to it.
 
 # Efficient compression of neural networks and datasets
 
